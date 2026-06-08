@@ -1,0 +1,10 @@
+{
+  "name": "Multi-Language Translator",
+  "description": "A modern, responsive multi-language translator supporting real-time translation, speech-to-text voice input, text-to-speech feedback, favorites, and history powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
